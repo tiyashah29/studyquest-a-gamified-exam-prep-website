@@ -3,6 +3,7 @@
 # StudyQuest 🎮📚
 
 StudyQuest is a gamified exam preparation website designed to make learning interactive and engaging.
+https://tinyurl.com/studyquest-project
 
 ## Features
 - Quiz-based learning
