@@ -5,7 +5,7 @@ from datetime import datetime
 import time
 
 class StudyQuestAPITester:
-    def __init__(self, base_url="https://user-mail-dashboard.preview.emergentagent.com"):
+    def __init__(self, base_url="https://tinyurl.com/studyquest-project"):
         self.base_url = base_url
         self.tokens = {}  # Store tokens for multiple users
         self.users = {}   # Store user data
